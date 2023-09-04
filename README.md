@@ -1,6 +1,6 @@
 # Using Tableau Data Visualizations to Make Informed Business Decisions
 
-<img src="https://i.imgur.com/t2nMfMU.png" height="50%" alt="Data Analysis Image by Mohamed Hassan from Pixabay"/>
+<img src="https://imgur.com/DR5f2XR" height="50%" alt="Data Analysis Image by Nikin from Pixabay"/>
 
 <h2>🗺️Project Description</h2>
 This data visualization portfolio project is part of the Forage Internship Job Simulation in partnership with Tata Insights.
