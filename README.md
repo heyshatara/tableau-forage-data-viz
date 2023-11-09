@@ -1,4 +1,4 @@
-# Using Tableau Data Visualizations to Make Informed Business Decisions
+# Using Tableau Data Visualizations to Make Data-Driven Business Decisions
 
 <img src="https://imgur.com/HbBdjXK.png" height="50%" alt="Data Analysis Image by Nikin from Pixabay"/>
 
